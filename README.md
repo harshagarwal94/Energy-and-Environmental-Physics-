@@ -2,7 +2,7 @@
 Provides information regarding Energy and Environmental Physics at Vellore Institute of Technology
 (VIT) (Vellore Institute of Technology)
 
-### Course Instructor :- Dr. ramupa supathi Sugavaneshwar
+### Course Instructor :- Dr. ramupa supathi Sugavaneshwar and Dr.M.Xavier Suresh 
 
 
 
